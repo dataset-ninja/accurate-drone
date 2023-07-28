@@ -1,6 +1,6 @@
-Dataset **Accurate drone shapes** can be downloaded in Supervisely format:
+Dataset **Accurate Drone Shapes** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/H/K/Jp/szwgRdnTdU1pRmIkXYPT2f02InNyps71Q2CHzxDH3BcuL9ktz8j1pq8e6PN7K7e3J3pFbFyOCbRfhR2A1LCTxZWdyEpUMgcvbLhLbO3DAR6lvdSe0r6KPiu9vCOM.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/M/B/pE/7oTVF258NbludpXwWmjxr7Nr9O0qR9fSMH8THDqX51UFpnc0jNKVY057IXKsrodVzsTwABCPfmOzUYQEjVEQ0HFMRj7X7nOTS4kKwEI4h1dfE2GRxLLXNBimoZDL.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
@@ -11,6 +11,6 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='Accurate drone shapes', dst_path='~/dtools/datasets/Accurate drone shapes.tar')
+dtools.download(dataset='Accurate Drone Shapes', dst_path='~/dtools/datasets/Accurate Drone Shapes.tar')
 ```
 The data in original format can be 🔗[downloaded here](https://www.kaggle.com/datasets/metavision/accurate-drone-shapessegmentation/download?datasetVersionNumber=2)

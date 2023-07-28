@@ -1,11 +1,11 @@
-If you make use of the Accurate drone shapes data, please cite the following reference:
+If you make use of the Accurate Drone Shapes data, please cite the following reference:
 
 ``` bibtex 
-@misc{Accurate drone shapes,
-	author="TO BE FILLED MANUALLY!",
-	title="Accurate drone shapes",
+@dataset{Accurate Drone Shapes,
+	author={metavision},
+	title={Accurate Drone Shapes/Segmentation},
 	year={2021},
-	url="https://www.kaggle.com/datasets/metavision/accurate-drone-shapessegmentation"
+	url={https://www.kaggle.com/datasets/metavision/accurate-drone-shapessegmentation}
 }
 ```
 
