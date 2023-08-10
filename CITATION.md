@@ -9,4 +9,4 @@ If you make use of the Accurate Drone Shapes data, please cite the following ref
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/metavision/accurate-drone-shapessegmentation)
+[Source](https://www.kaggle.com/datasets/metavision/accurate-drone-shapessegmentation)
