@@ -1,6 +1,6 @@
 Dataset **Accurate Drone Shapes** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/A/q/4W/eoSej7LGBz0uPDFtgaceDpyWoYNDohVAgpzJv07nBS4ScI1MPiVTdCqDHDGUqpwnJRo6P1jai5M9SoRoGFBOQQgbdtDn0zDqSm3D4oTf9WBk4V5DaSTEY6KpKKXD.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/Z/J/pj/69ZNQRm2mssBgSq2DT1fC7WPL30o2gyzzBWWiLlUyz3eX29ZcNoCWJTRWTmfXgfPeBdL3C30aXrFEGMRIk8K2upFApIHmc32wK9I0MegixKh7bCp0uZQQAwT0wky.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
