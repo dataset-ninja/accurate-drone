@@ -1,3 +1,1 @@
-The data set was produced by MetaVision team using original content. Several segmentation techniques were used to generate accurate masks from the original video streams, preserving natural variance and original shapes.
-
-This set is just a "building block". Feel free to augment it or combine it with other sets.
+The **Accurate Drone Shapes/Segmentation** dataset was created by the MetaVision team using their own original content. They applied various segmentation techniques to create precise masks from the original video streams while retaining the natural variations and original shapes.
