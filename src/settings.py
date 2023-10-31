@@ -54,7 +54,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = None
-AUTHORS_CONTACTS: Optional[List[str]] = "https://metavision.zone/"
+AUTHORS_CONTACTS: Optional[List[str]] = ["https://metavision.zone/"]
 
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "MetaVision, Ukraine"
